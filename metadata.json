@@ -1,0 +1,14 @@
+{
+  "name": "lazyfrosch-skeleton",
+  "version": "0.0.0",
+  "author": "Markus Frosch <markus@lazyfrosch.de>",
+  "summary": "Skeleton module",
+  "license": "Public domain",
+  "source": "",
+  "project_page": null,
+  "issues_url": null,
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
