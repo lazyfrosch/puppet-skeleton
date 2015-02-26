@@ -3,7 +3,6 @@ require 'puppetlabs_spec_helper/rake_tasks'
 require 'puppet-lint/tasks/puppet-lint'
 
 PuppetLint.configuration.relative = true
-PuppetLint.configuration.send('disable_80chars')
 PuppetLint.configuration.ignore_paths = ["spec/**/*.pp", "pkg/**/*.pp", "vendor/**/*.pp"]
 
 # Alternative configuration until https://github.com/rodjek/puppet-lint/pull/397 gets merged
