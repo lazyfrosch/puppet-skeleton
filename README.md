@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/lazyfrosch/puppet-skeleton.svg?branch=master)](https://travis-ci.org/lazyfrosch/puppet-skeleton)
+
 skeleton Puppet module
 ======================
 
@@ -11,8 +13,8 @@ How can one contribute to your project
 
 # License
 
-Copyright (c) 2015 Markus Frosch <markus@lazyfrosch.de>
+    Copyright (c) 2015 Markus Frosch <markus@lazyfrosch.de>
 
-You should add a proper license declaration here.
+    You should add a proper license declaration here.
 
-This skeleton is public domain, use it how you like.
+    This skeleton is public domain, use it how you like.
