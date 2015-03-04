@@ -1,3 +1,4 @@
 --fail-on-warnings
---no-80chars-check
+--relative
+--no-80chars
 --no-class_inherits_from_params_class-check
